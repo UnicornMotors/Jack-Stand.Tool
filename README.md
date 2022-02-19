@@ -3,6 +3,8 @@ Sch: https://www.northerntool.com/shop/tools/NTESearch?storeId=6970&ipp=48&Ntt=j
 
 # Type:
 ## Screw Type:
+https://www.northerntool.com/shop/tools/product_200641384_200641384
+
 https://jmcautomotiveequipment.com/shop-equipment/lifting-equipment/jack-stands/zinko-zjs-1218-12-ton-18-screw-type-stands/
 
 # Capacity:
