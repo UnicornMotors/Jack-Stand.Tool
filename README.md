@@ -1,6 +1,11 @@
 # Jack-Stand.Tool
 Sch: https://www.northerntool.com/shop/tools/NTESearch?storeId=6970&ipp=48&Ntt=jack+stand
 
+# Type:
+## Screw Type:
+https://jmcautomotiveequipment.com/shop-equipment/lifting-equipment/jack-stands/zinko-zjs-1218-12-ton-18-screw-type-stands/
+
+# Capacity:
 ## 6 Ton:
 Sch: https://www.google.com/search?q=6+ton+jack+stands ;
 
